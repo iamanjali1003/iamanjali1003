@@ -15,7 +15,7 @@ I build full-stack products end to end: React and Next.js on the front, Node.js 
 
 - **QA Intern** at Scaler AI Labs, Bengaluru — since September 2026
 - **B.E. Information Science & Engineering**, graduating 2027
-- Competitive programming on **CodeChef (1624)** and **Codeforces (458)**
+- Competitive programming on **CodeChef** — 3★, max rating 1674
 - Open to software engineering internships and new-grad roles
 
 ### Projects
@@ -23,8 +23,9 @@ I build full-stack products end to end: React and Next.js on the front, Node.js 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[pixStory](https://github.com/iamanjali1003/pixstory)** · [live](http://Pixstory-env-1.eba-55bqi3ks.ap-south-1.elasticbeanstalk.com) | Full-stack photo gallery with direct-to-S3 presigned uploads, CloudFront delivery and JWT auth | React, TypeScript, Node.js, Express, MongoDB, AWS |
+| **[datacheck](https://github.com/iamanjali1003/datacheck)** | CLI that validates CSV files against YAML rules, with rules and report formats loaded as plugins | Java 21, Maven, JUnit 5, GitHub Actions |
 | **[monoCV](https://github.com/iamanjali1003/monocv)** | ATS-friendly resume builder with live preview and PDF export | Next.js, TypeScript, Tailwind, shadcn/ui, Zustand, Zod |
-| **[Attendance System](https://github.com/iamanjali1003/student-attendance-management-system)** | Normalised 3NF schema with stored procedures, triggers and composite indexes | MySQL 8.0, SQL |
+| **[Attendance System](https://github.com/iamanjali1003/student-attendance-management-system)** | 3NF schema of 7 tables with stored procedures and audit triggers | MySQL 8.0, SQL |
 | **[forage-midas](https://github.com/iamanjali1003/forage-midas)** | Kafka → H2 → REST transaction pipeline as one Spring Boot microservice | Java, Spring Boot, Kafka, Spring Data JPA |
 
 ### Tech
