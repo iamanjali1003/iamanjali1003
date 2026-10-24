@@ -1,6 +1,6 @@
 # Anjali
 
-**Software Engineering student** at JSS Academy of Technical Education, Bengaluru — currently a **QA Intern at Scaler AI Labs**.
+**Software Engineering student** at JSS Academy of Technical Education, Bengaluru — currently a **Software QA Intern at Scaler AI Labs**.
 
 I build full-stack products end to end: React and Next.js on the front, Node.js and Spring Boot behind them, deployed on AWS.
 
@@ -13,7 +13,7 @@ I build full-stack products end to end: React and Next.js on the front, Node.js 
 
 ### Currently
 
-- **QA Intern** at Scaler AI Labs, Bengaluru — since September 2026
+- **Software QA Intern** at Scaler AI Labs, Bengaluru — since September 2026
 - **B.E. Information Science & Engineering**, graduating 2027
 - Competitive programming on **CodeChef** — 3★, max rating 1674
 - Open to software engineering internships and new-grad roles
