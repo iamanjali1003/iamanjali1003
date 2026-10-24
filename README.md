@@ -20,7 +20,7 @@ and Spring Boot behind them, deployed on AWS.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[pixStory](https://github.com/iamanjali1003/pixstory)** · [live](http://Pixstory-env-1.eba-55bqi3ks.ap-south-1.elasticbeanstalk.com) | Photo gallery with presigned uploads straight to S3, CloudFront delivery and JWT auth | React, TypeScript, Node.js, Express, MongoDB, AWS |
+| **[pixStory](https://github.com/iamanjali1003/pixstory)** | Photo gallery with presigned uploads straight to S3, CloudFront delivery and JWT auth | React, TypeScript, Node.js, Express, MongoDB, AWS |
 | **[datacheck](https://github.com/iamanjali1003/datacheck)** | CLI that validates CSV files against YAML rules, with rules and report formats loaded as plugins | Java 21, Maven, JUnit 5, GitHub Actions |
 | **[monoCV](https://github.com/iamanjali1003/monocv)** | ATS-friendly resume builder with live preview and PDF export | Next.js, TypeScript, Tailwind, shadcn/ui, Zustand, Zod |
 | **[Attendance System](https://github.com/iamanjali1003/student-attendance-management-system)** | 3NF schema of 7 tables with stored procedures and audit triggers | MySQL 8.0, SQL |
