@@ -50,7 +50,7 @@ and Spring Boot behind them, deployed on AWS.
 
 ## Highlights
 
-- **Hacktoberfest 2024** (4+ merged PRs) and **Hacktoberfest 2025** (6+ merged PRs)
+- Merged PRs to [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go/pull/177) and [stock-backend](https://github.com/shivamsouravjha/stock-backend/pull/13) during **Hacktoberfest 2024**
 - **Global Rank 90** in CodeChef Starters 197
 - Completed JPMorgan Chase's **Software Engineering job simulation** on Forage
 
